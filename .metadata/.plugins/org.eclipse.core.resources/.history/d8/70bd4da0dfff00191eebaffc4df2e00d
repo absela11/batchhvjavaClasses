@@ -1,0 +1,18 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		int i = 50;
+
+		int[] b = new int[10];
+		System.out.println(b.length);
+
+		b = new int[100];
+		System.out.println(b.length);
+
+		b = new int[i];
+		System.out.println(b.length);
+
+	}
+
+}

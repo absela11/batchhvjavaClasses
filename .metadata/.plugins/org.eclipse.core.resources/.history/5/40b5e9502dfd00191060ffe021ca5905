@@ -1,0 +1,23 @@
+
+public class Practice1 {
+
+	public static void main(String[] args) {
+		int n =3;
+		while(n>0) {
+			System.out.println(n);
+			n=n-1;
+			System.out.println("blastoff!");
+			//other way
+			int s=3;
+			while (n<0) {
+				System.out.println("s");
+				//other way
+				
+			}
+			
+			
+		}
+
+	}
+
+}

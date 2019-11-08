@@ -1,0 +1,24 @@
+
+public class Reviewequalas {
+
+	public static void main(String[] args) {
+		//create the string that will hold a sentences.
+		//write a program to get a new string spaces.
+		String str ="Learning java is fun";
+		String str2 = str.replace("", "");
+		System.out.println(str2);
+		
+		  }
+		
+		
+		
+			
+		}
+		
+		
+
+		
+
+	
+
+

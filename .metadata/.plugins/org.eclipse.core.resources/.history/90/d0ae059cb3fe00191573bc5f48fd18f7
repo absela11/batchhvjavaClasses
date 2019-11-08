@@ -1,0 +1,33 @@
+import javax.xml.stream.events.Characters;
+
+public class Reviewequalas {
+
+	public static void main(String[] args) {
+		//create the string that will hold a sentences.
+		//write a program to get a new string spaces.
+		String str ="Learning java is fun";
+		String str2 = str.replace("", "");
+		System.out.println(str2);
+		//create a string that should be combination of letters,
+		//numbers  and 
+	//special characters.
+		//find out how many charcters are there in the string
+		String s = "Hi %^#Ja6789vyu76@#$";
+		String s1=s.replaceAll("[^a-zA-Z}","");
+		System.out.println(s1);
+	}
+	
+		
+
+		
+
+		
+		
+		
+}		
+
+		
+
+	
+
+

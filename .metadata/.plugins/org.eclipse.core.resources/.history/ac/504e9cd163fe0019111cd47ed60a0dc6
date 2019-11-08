@@ -1,0 +1,19 @@
+
+public class Reviewequalas {
+
+	public static void main(String[] args) {
+		String name="Sunday";
+		System.out.println("yadnus");
+	// create the string and print it in revrse
+		String s2 = "abel";
+		
+			
+		}
+		
+		
+
+		
+
+	}
+
+}

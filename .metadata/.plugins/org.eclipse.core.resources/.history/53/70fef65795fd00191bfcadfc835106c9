@@ -1,0 +1,13 @@
+
+public class Reviewequalas {
+
+	public static void main(String[] args) {
+		String name="Sunday";
+		System.out.println("yadnus");
+	
+		
+		
+
+	}
+
+}

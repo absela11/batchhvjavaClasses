@@ -1,0 +1,21 @@
+
+public class Reviewequalas {
+
+	public static void main(String[] args) {
+	String str= "write the program with out any space"; 
+		String[] array=str. split("");
+	for(String i:array) {
+		System.out.println(i);
+		
+		
+		
+			
+		}
+		
+		
+
+		
+
+	}
+
+}

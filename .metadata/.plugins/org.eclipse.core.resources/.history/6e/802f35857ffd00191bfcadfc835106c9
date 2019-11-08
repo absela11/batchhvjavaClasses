@@ -1,0 +1,10 @@
+
+public class Recapstring {
+
+	public static void main(String[] args) {
+	String city="fairfax";
+	String city1="fairfax";
+	System.out.println("city");
+	}
+
+}

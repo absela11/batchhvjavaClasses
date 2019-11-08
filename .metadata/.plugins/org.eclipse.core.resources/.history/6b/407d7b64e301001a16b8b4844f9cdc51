@@ -1,0 +1,11 @@
+
+public class Stringcioncation {
+
+	public static void main(String[] args) {
+		String s1="Ethio";
+		String s2=" ";
+		String s3="ABELA";
+		System.out.println(s1+s2+s3);
+	}
+
+}
